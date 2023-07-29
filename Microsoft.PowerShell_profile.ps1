@@ -238,4 +238,4 @@ if (Test-Path($ChocolateyProfile)) {
 }
 
 # Install Nano
-iex "choco install nano -y"
+# iex "choco install nano -y"
