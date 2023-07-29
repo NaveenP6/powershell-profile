@@ -13,7 +13,7 @@ if (!(Test-Path -Path $PROFILE -PathType Leaf)) {
             }
         }
 
-        Invoke-RestMethod https://github.com/ChrisTitusTech/powershell-profile/raw/main/Microsoft.PowerShell_profile.ps1 -o $PROFILE
+        Invoke-RestMethod https://github.com/NaveenP6/powershell-profile/raw/main/Microsoft.PowerShell_profile.ps1 -o $PROFILE
         Write-Host "The profile @ [$PROFILE] has been created."
     }
     catch {
