@@ -6,6 +6,11 @@ A stylish and functional PowerShell profile that looks and feels almost as good 
 
 Execute the following command in an elevated PowerShell window to install the PowerShell profile:
 
+Install Oh-My-Posh
+```
+irm "https://github.com/NaveenP6/powershell-profile/raw/main/posh.ps1" | iex
+```
+Install Powershell profile
 ```
 irm "https://github.com/NaveenP6/powershell-profile/raw/main/setup.ps1" | iex
 ```
