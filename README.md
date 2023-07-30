@@ -49,4 +49,6 @@ Here are the following added aliases for quality of life
 * pkill “process killer”
 * pgrep “process finder”
 
-https://youtu.be/LuAipOW8BNQ
+## Chris Titus Video
+<iframe width="873" height="491" src="https://www.youtube.com/embed/LuAipOW8BNQ" title="Pretty Powershell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
