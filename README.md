@@ -48,3 +48,5 @@ Here are the following added aliases for quality of life
 * export
 * pkill “process killer”
 * pgrep “process finder”
+
+https://youtu.be/LuAipOW8BNQ
