@@ -227,11 +227,6 @@ function pgrep($name) {
 ## Final Line to set prompt
 oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression
 
-Install-Module oh-my-posh -Scope CurrentUser
-
-# Set the oh-my-posh theme
-Set-PoshPrompt -Theme "themes/craver.omp.json"
-
 
 # Import the Chocolatey Profile that contains the necessary code to enable
 # tab-completions to function for `choco`.
