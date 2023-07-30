@@ -50,5 +50,5 @@ Here are the following added aliases for quality of life
 * pgrep “process finder”
 
 ## Chris Titus Video
-<iframe width="873" height="491" src="https://www.youtube.com/embed/LuAipOW8BNQ" title="Pretty Powershell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LuAipOW8BNQ" frameborder="0" allowfullscreen></iframe>
 
