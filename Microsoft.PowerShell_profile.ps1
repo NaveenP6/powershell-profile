@@ -225,7 +225,7 @@ function pgrep($name) {
 
 
 ## Final Line to set prompt
-oh-my-posh init pwsh --config themes/craver.omp.json | Invoke-Expression
+oh-my-posh init pwsh --config ~oh-my-posh/themes/craver.omp.json | Invoke-Expression
 
 # Import the Chocolatey Profile that contains the necessary code to enable
 # tab-completions to function for `choco`.
