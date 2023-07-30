@@ -8,7 +8,7 @@ Execute the following command in an elevated PowerShell window to install the Po
 
 Install Oh-My-Posh
 ```
-irm "https://github.com/NaveenP6/powershell-profile/raw/main/setup.ps1" | iex
+irm "https://github.com/NaveenP6/powershell-profile/raw/main/posh.ps1" | iex
 ```
 Install Powershell profile
 ```
