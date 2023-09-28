@@ -137,7 +137,7 @@ Set-Alias -Name vim -Value $EDITOR
 
 
 function ll { Get-ChildItem -Path $pwd -File }
-function g { Set-Location D:\Files }
+function g { Set-Location D:\ }
 function gcom {
     git add .
     git commit -m "$args"
